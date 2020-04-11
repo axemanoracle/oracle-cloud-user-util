@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/oracle-cloud-user-util/static/css/main.176b7693.chunk.css",
+    "main.js": "/oracle-cloud-user-util/static/js/main.4effc11f.chunk.js",
+    "main.js.map": "/oracle-cloud-user-util/static/js/main.4effc11f.chunk.js.map",
+    "runtime-main.js": "/oracle-cloud-user-util/static/js/runtime-main.7cb38ec5.js",
+    "runtime-main.js.map": "/oracle-cloud-user-util/static/js/runtime-main.7cb38ec5.js.map",
+    "static/js/2.bcb30d86.chunk.js": "/oracle-cloud-user-util/static/js/2.bcb30d86.chunk.js",
+    "static/js/2.bcb30d86.chunk.js.map": "/oracle-cloud-user-util/static/js/2.bcb30d86.chunk.js.map",
+    "index.html": "/oracle-cloud-user-util/index.html",
+    "precache-manifest.199c111f4f69920fd6f4947706fe7243.js": "/oracle-cloud-user-util/precache-manifest.199c111f4f69920fd6f4947706fe7243.js",
+    "service-worker.js": "/oracle-cloud-user-util/service-worker.js",
+    "static/css/main.176b7693.chunk.css.map": "/oracle-cloud-user-util/static/css/main.176b7693.chunk.css.map",
+    "static/js/2.bcb30d86.chunk.js.LICENSE.txt": "/oracle-cloud-user-util/static/js/2.bcb30d86.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cb38ec5.js",
+    "static/js/2.bcb30d86.chunk.js",
+    "static/css/main.176b7693.chunk.css",
+    "static/js/main.4effc11f.chunk.js"
+  ]
+}
