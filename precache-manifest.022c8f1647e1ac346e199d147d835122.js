@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ee74b5b1a80890912e7401256a5ca2c",
+    "revision": "a6b7946cc7903442b028b885f2abe94d",
     "url": "/oracle-cloud-user-util/index.html"
   },
   {
-    "revision": "cdf1756f6b985d65d325",
+    "revision": "05b59c5aca3e15d3152f",
     "url": "/oracle-cloud-user-util/static/css/main.99c87770.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oracle-cloud-user-util/static/js/2.7c6b5b87.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cdf1756f6b985d65d325",
-    "url": "/oracle-cloud-user-util/static/js/main.34619d66.chunk.js"
+    "revision": "05b59c5aca3e15d3152f",
+    "url": "/oracle-cloud-user-util/static/js/main.7f78d454.chunk.js"
   },
   {
     "revision": "7c779ceee75b78e0a293",
