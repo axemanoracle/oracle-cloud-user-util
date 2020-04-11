@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/oracle-cloud-user-util/static/css/main.99c87770.chunk.css",
-    "main.js": "/oracle-cloud-user-util/static/js/main.7f78d454.chunk.js",
-    "main.js.map": "/oracle-cloud-user-util/static/js/main.7f78d454.chunk.js.map",
+    "main.js": "/oracle-cloud-user-util/static/js/main.66b8ea61.chunk.js",
+    "main.js.map": "/oracle-cloud-user-util/static/js/main.66b8ea61.chunk.js.map",
     "runtime-main.js": "/oracle-cloud-user-util/static/js/runtime-main.7cb38ec5.js",
     "runtime-main.js.map": "/oracle-cloud-user-util/static/js/runtime-main.7cb38ec5.js.map",
     "static/js/2.7c6b5b87.chunk.js": "/oracle-cloud-user-util/static/js/2.7c6b5b87.chunk.js",
     "static/js/2.7c6b5b87.chunk.js.map": "/oracle-cloud-user-util/static/js/2.7c6b5b87.chunk.js.map",
     "index.html": "/oracle-cloud-user-util/index.html",
-    "precache-manifest.022c8f1647e1ac346e199d147d835122.js": "/oracle-cloud-user-util/precache-manifest.022c8f1647e1ac346e199d147d835122.js",
+    "precache-manifest.6806e858d08430c029168f8099912c27.js": "/oracle-cloud-user-util/precache-manifest.6806e858d08430c029168f8099912c27.js",
     "service-worker.js": "/oracle-cloud-user-util/service-worker.js",
     "static/css/main.99c87770.chunk.css.map": "/oracle-cloud-user-util/static/css/main.99c87770.chunk.css.map",
     "static/js/2.7c6b5b87.chunk.js.LICENSE.txt": "/oracle-cloud-user-util/static/js/2.7c6b5b87.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7cb38ec5.js",
     "static/js/2.7c6b5b87.chunk.js",
     "static/css/main.99c87770.chunk.css",
-    "static/js/main.7f78d454.chunk.js"
+    "static/js/main.66b8ea61.chunk.js"
   ]
 }
